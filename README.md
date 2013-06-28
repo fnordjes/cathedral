@@ -7,7 +7,7 @@ A word of warning
 -----------------
 
 If you happen to come across this project while you're preparing for an implementation of this board game yourself: **Go away now!**
-This implementation sucks at playing this game. In fact it is also cheating. I am posting this here just for kicks.
+This implementation sucks at playing this game. In fact it is also cheating (say: The program is not playing by the rules because there are some bugs). I am posting this here just for kicks.
 
 Only for the brave (or stupid)
 ------------------------------
